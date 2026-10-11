@@ -1,0 +1,6 @@
+{
+  "name": "Best Food Cottage",
+  "description": "Official food ordering platform for Best Food Cottage, Khadim Ali Road, Sialkot. Order delicious pizzas, zinger burgers, shawarma, and combo deals with Cash on Delivery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
